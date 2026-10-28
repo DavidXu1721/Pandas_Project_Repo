@@ -20,12 +20,15 @@ Using **pandas, NumPy, matplotlib and seaborn**, I worked with retail sales, veh
 
 ### Retail Sales Analysis
 Created a structured sales DataFrame containing product information, prices and units sold. Cleaned currency values, calculated revenue for individual products and exported the results for reporting.
+<img src='./images/Retail_Sales.jpeg' title='Sales aggregated by Category and Segment'>
 
 ### Vehicle Fuel Efficiency Analysis
 Explored vehicle mileage data using conditional filtering, sorting and correlation analysis. Calculated average fuel efficiency, converted mileage measurements and compared vehicles based on fuel consumption.
+<img src='./images/Vehicle_Fuel_Efficiency.jpeg' title='Identifying vehicles with Fuel Economy above the median'>
 
 ### Global GDP Data Analysis
 Analysed GDP-per-capita estimates from different sources, grouped countries by region, handled missing estimates, and used statistical analysis and visualisations to explore economic differences and outliers.
+<img src='./images/Global_GDP.jpeg' title='Regions by IMF Estimate' />
 
 ## Tools and Technologies
 
